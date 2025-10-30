@@ -1,7 +1,17 @@
 .header{
-    background-color: ##1F2937;
+    background-color: #1F2937;
     padding: 20px;
-    text-align: center;
+    text-align: :left;
     display: flex;
+    text: 24px #F9FAF8;
+}
+
+.header-links{
+    background-color: #1F2937;
+    margin-left: auto;
+    display: flex;
+    gap: 15px;
+    align-items: right;
+    text: 18px #E5E7EB;
 }
 
