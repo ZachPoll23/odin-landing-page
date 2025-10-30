@@ -8,6 +8,7 @@ justify-content: space-between;
 
 .header-links{
 display: flex;
+gap: 15px;
 }
 
 
