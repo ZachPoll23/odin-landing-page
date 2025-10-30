@@ -3,18 +3,12 @@ font-family: Roboto;
 background-color: #1F2937;
 display: flex;
 align-items: center;
-justify-content: space-around;
 }
 
 .header-logo{
-    background-color: #1F2937;
     margin-left: 50px;
     padding-left: 50px;
     font-size: 24px #F9FAF8;
 }
 
-.header-links{
-    background-color: #1F2937;
-    font-size: 18px #e5e7eb;
-}
 
