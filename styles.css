@@ -11,7 +11,7 @@ display: flex;
 .header .header-logo {
     flex: 1 1 0%;
     display: flex;
-    justify-content: center;
+    justify-content: left;
     align-items: center;
     margin-left: 100px;
     color: #F9FAF8;
@@ -23,7 +23,7 @@ display: flex;
     color: #E5E7EB;
     font-size: 18px;
     display: flex;
-    justify-content: center;
+    justify-content: right;
     align-items: center;
     margin-right: 100px;
     gap: 40px;
