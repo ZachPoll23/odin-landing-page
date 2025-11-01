@@ -50,12 +50,14 @@ display: flex;
 }
 
 .intro-text h1 {
+    flex: 1 1 0%;
     font-size: 48px;
     color: #F9FAF8;
     font-weight: 900;
 }
 
 .intro-text p {
+    flex: 1 1 0%;
     font-size: 18px;
     color: #E5E7EB;
     margin-top: 20px;
@@ -69,6 +71,7 @@ display: flex;
     margin-right: 200px;
 }
 .intro-image img {
+    flex: 1 1 0%;
     width: 400px;
     height: auto;
 }
